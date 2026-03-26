@@ -1,5 +1,5 @@
 # EX 57 C function to perfom push,pop and peek functions in Stack using Linked List.( store char data in stack)
-## DATE:21/05/25
+## DATE:27/03/2026
 ## AIM:
 To write a C function to perfom push,pop and peek functions in Stack using Linked List.
 
